@@ -1,0 +1,1 @@
+Запускать через "WarehouseMaster.java".
